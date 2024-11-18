@@ -3,3 +3,5 @@ This repository provides an analysis of the influence of top financial companies
 The repository is designed to be user-friendly and includes MATLAB scripts that guide users through data preprocessing, modeling, and validation. Statistical tests, such as the Diebold-Mariano test and the Fluctuation test, are applied to assess model performance and stability over time. The combination of straightforward linear models and more advanced machine learning approaches reflects a balanced methodology tailored to different types of financial analysis.
 
 This repository may be of particular interest to audiences involved in quantitative finance, econometrics, or financial modeling, as it showcases practical approaches to analyzing market behavior. It is well-suited for demonstrating an ability to apply technical tools to meaningful financial questions, offering insights into how large financial institutions can influence broader market indices like the S&P 500.
+
+Furthermore I added a Python "translation" of the code for people without a MATLAB license. 
